@@ -12,3 +12,7 @@ A portfolio that provides professional information about an individual or a comp
 **Client:** HTML, CSS.
 
 **Server:** Github
+
+## Authors
+
+- [@Alfredo Kalu Orie](https://www.github.com/xclusivfred)
