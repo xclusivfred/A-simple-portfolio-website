@@ -16,3 +16,7 @@ A portfolio that provides professional information about an individual or a comp
 ## Authors
 
 - [@Alfredo Kalu Orie](https://www.github.com/xclusivfred)
+
+<!--## Screenshots
+
+![App Screenshot](https://i.postimg.cc/c1DDB7qG/285843152-335584972065344-8635541701505350891-n.jpg)-->
