@@ -25,3 +25,7 @@ https://xclusivfred.github.io/A-simple-portfolio-website
 <!--## Screenshots
 
 ![App Screenshot](https://i.postimg.cc/c1DDB7qG/285843152-335584972065344-8635541701505350891-n.jpg)-->
+
+## Acknowledgements
+
+ - [Freecodecamp.org](https://freecodecamp.org/)
