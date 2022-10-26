@@ -29,3 +29,7 @@ https://xclusivfred.github.io/A-simple-portfolio-website
 ## Acknowledgements
 
  - [Freecodecamp.org](https://freecodecamp.org/)
+
+## Features
+
+- Mobile Responsive
