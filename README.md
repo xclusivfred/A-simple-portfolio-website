@@ -33,3 +33,6 @@ https://xclusivfred.github.io/A-simple-portfolio-website
 ## Features
 
 - Mobile Responsive
+
+## 🛠 Skills
+HTML, CSS.
