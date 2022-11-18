@@ -1,5 +1,5 @@
 # A-simple-portfolio-website
-A portfolio webpage that provides professional information about an individual.
+A portfolio webpage that provides professional information about an individual
 
 ## Prerequisite
 
